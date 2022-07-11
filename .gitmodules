@@ -7,3 +7,6 @@
 [submodule "Vuln-back(Public)/Common"]
 	path = Vuln-back(Public)/Common
 	url = https://github.com/KikeVR1996/Common.git
+[submodule "Vuln-back(Public)/Identity-manager"]
+	path = Vuln-back(Public)/Identity-manager
+	url = https://github.com/KikeVR1996/Identity-manager.git
