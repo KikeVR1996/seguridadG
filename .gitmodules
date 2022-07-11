@@ -1,0 +1,9 @@
+[submodule "Vuln-back(main)/database"]
+	path = Vuln-back(main)/database
+	url = https://github.com/KikeVR1996/database.git
+[submodule "Vuln-back(main)/database-test"]
+	path = Vuln-back(main)/database-test
+	url = https://github.com/KikeVR1996/database-test.git
+[submodule "Vuln-back(Public)/Common"]
+	path = Vuln-back(Public)/Common
+	url = https://github.com/KikeVR1996/Common.git
